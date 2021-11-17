@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f457d431-4e6f-5109-4f49-b93322af4b0e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Videogame Theory and Analysis",
+  "course_description": "This course is an introduction to the interdisciplinary study of commercial videogames as texts, examining their cultural, educational, and social functions in contemporary settings. Students play and analyze videogames while examining debates surrounding how games function within socially situated contexts. Readings include contemporary game theory (Gee, Squire, Steinkuehler, Jenkins, Klopfer, Zimmerman and Salen, Juul, Bartle, Taylor, Aarseth) and the completion of a contemporary commercial videogame chosen in consultation with the instructor.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "CMS.600",
+  "primary_course_number": "CMS.998",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
